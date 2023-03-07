@@ -1,7 +1,7 @@
-#Preview 
+# Preview 
 This is my understanding and explanation of a genral Scratch project and a try to give my solution on the interested project, "Development of an interactive flow visualization tool for visual / blockly programming"
 ***
-#Understanding a Scratch project via its JSON strucutre
+# Understanding a Scratch project via its JSON strucutre
 
 Via a dummy Scratch project, [Scratch Porject](https://scratch.mit.edu/projects/814990872/editor), the following observations were made by me:
 * Every Scratch project has a list "targets" which has its elements as ``` Stage```, ```Sprite1``` and so.
