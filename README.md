@@ -40,11 +40,11 @@ Via a dummy Scratch project, [Scratch Porject](https://scratch.mit.edu/projects/
 
 * Some function "blocks" are lists which has elements like MESSAGE, SUBSTACK, TIMES etc., which are elementary instructions.
 ***
-#Solution
+# Solution
 After discussing the various compenents of a Scratch JSON file, i am laying a skeletal structure on how i would tackle the problem and provide the desrired output:
 <p></p>
 
-* Parse the JSON file and create an empty dictionary and append the "blocks" keys with their values; fo every "Sprite" there is in the project.
+* Parse the JSON file and create an empty dictionary and append the "blocks" keys with their values; for every "Sprite" there is in the project.
  <p></p>
 
 * Now in the currated dictionary we again run a loop and make a nested dictionary in which for every "block" , the key-value pairs (like "opcade", "next", "parent") and append another nested dictionary for the values that the above key-value pairs could possess.
