@@ -54,5 +54,8 @@ After discussing the various compenents of a Scratch JSON file, i am laying a sk
 <p></p>
 
 * According to me, we just require to lay relations between different keys depends upon certain parameters like "next", "opcode", "SUBSTACKS", etc.
+***
+# Workflow
 
+<img src = "https://github.com/deathzombie/Explanation-/blob/main/Untitled.excalidraw.png">
 
